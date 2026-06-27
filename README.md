@@ -1,16 +1,24 @@
-## Hi there 👋
+ Hi, I'm Tasnim 👋
 
-<!--
-**tj1406/tj1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Economics Student
 
-Here are some ideas to get you started:
+## About Me
+- 📚 Interested in Research
+- 💻 Learning Git & GitHub
+- 🐍 Learning Python
+- 🤖 Exploring AI and Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Build useful projects
+- Improve research skills
+- Contribute to open source
+- Prepare for internships
+
+## Skills
+- Microsoft PowerPoint
+- Canva
+- Google Slides
+- Git & GitHub (Learning)
+- Python (Learning)
+
+Thanks for visiting my profile! 😊
