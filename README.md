@@ -1,10 +1,10 @@
- Hi, I'm Tasnim 👋
+ Hi, I'm Tasnim Jahan 
 Economics Student
 ## About Me
-- 📚 Interested in Research
-- 💻 Learning Git & GitHub
-- 🐍 Learning Python
-- 🤖 Exploring AI and Data Analysis
+-  Interested in Research
+-  Learning Git & GitHub
+-  Learning Python
+-  Exploring AI and Data Analysis
 ## Current Goals
 - Build useful projects
 - Improve research skills
@@ -17,4 +17,4 @@ Economics Student
 - Git & GitHub (Learning)
 - Python (Learning)
 - Latex
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! 
