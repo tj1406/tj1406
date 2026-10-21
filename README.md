@@ -1,7 +1,7 @@
  # Hello, I'm Tasnim Jahan! 
 
 
- **Undergraduate Economics Student** (10th Semester) |  **Apparel Merchandising Intern** at Spark Clothing Ltd. |  **Certified Care Specialist** (NSDA & UDCEP)  
+ **Undergraduate Economics Student** (10th Semester) |  **Apparel Merchandising Intern** at Spark Clothing Ltd. |  **Certified Care Specialist** (NSDA)  
 
 ---
 
