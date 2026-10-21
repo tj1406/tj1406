@@ -1,16 +1,16 @@
  # Hello, I'm Tasnim Jahan! 
 
 
-🎓 **Undergraduate Economics Student** (10th Semester) | 💼 **Apparel Merchandising Intern** at Spark Clothing Ltd. | 🧠 **Certified Care Specialist** (NSDA & UDCEP)  
+ **Undergraduate Economics Student** (10th Semester) |  **Apparel Merchandising Intern** at Spark Clothing Ltd. |  **Certified Care Specialist** (NSDA & UDCEP)  
 
 ---
 
-## 🌟 Professional Summary
+##  Professional Summary
 A versatile and driven Economics undergraduate bridging the gap between **analytical research, supply chain merchandising, and compassionate social care**. Passionate about leveraging data-driven insights and visual communication to address public health, neurodiversity, and elderly care challenges. Adept at combining corporate merchandising experience with specialized healthcare qualifications.
 
 ---
 
-## 💼 Current Experience & Roles
+##  Current Experience & Roles
 
 * **Apparel Merchandising Intern** | **Spark Clothing Ltd.** *(March 2026 – Present)*
   * Managing order execution, costing, sample development, and cross-functional communication within the apparel supply chain.
@@ -20,15 +20,15 @@ A versatile and driven Economics undergraduate bridging the gap between **analyt
 
 ---
 
-## 📜 Certifications & Credentials
+##  Certifications & Credentials
 
-* 🏆 **Level 3 Certified in Child Care, Old Care & Dementia Support**  
+*  **Level 3 Certified in Child Care, Old Care & Dementia Support**  
   * *Issued by:* National Skills Development Authority (NSDA) & UDCEP.
   * *Expertise:* Professional caregiving frameworks, dementia management, pediatric safety, and geriatric well-being protocols.
 
 ---
 
-## 🛠️ Core Competencies & Skills
+##  Core Competencies & Skills
 
 | Category | Skills & Tools |
 | :--- | :--- |
@@ -40,21 +40,21 @@ A versatile and driven Economics undergraduate bridging the gap between **analyt
 
 ---
 
-## 🎯 Career Goals & Vision
+##  Career Goals & Vision
 * **Academic Ascent:** Pursuing advanced higher studies (Masters in Social Work / Economics) to drive systemic changes in public health and welfare.
 * **Corporate & Social Impact:** Merging industry experience in apparel supply chain management with specialized social work credentials.
 * **Tech Integration:** Expanding proficiency in Python and data analytics to build open-source research tools.
 
 ---
 
-## 📌 Featured Open-Source Projects
+##  Featured Open-Source Projects
 * **[Medical-and-Health-Infographics](https://github.com/tj1406/Medical-and-Health-Infographics)**: A comprehensive open-source repository featuring professional research posters on Down Syndrome brain development, maternal health risks, and holistic elderly care frameworks.
 
 ---
 
 ### 🌐 Connect With Me
-* 💼 **LinkedIn:** www.linkedin.com/in/tasnim-jahan-madhurzy-3151293a8
-* ✉️ **Email:** tasnimjahan242004019@gmail.com
+*  **LinkedIn:** www.linkedin.com/in/tasnim-jahan-madhurzy-3151293a8
+*  **Email:** tasnimjahan242004019@gmail.com
 
 ---
-*✨ "Empowering communities through research, care, and economic insight."*
+* "Empowering communities through research, care, and economic insight."*
