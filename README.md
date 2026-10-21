@@ -1,7 +1,5 @@
  # Hello, I'm Tasnim Jahan! 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tj1406&color=blueviolet&style=flat-square)](https://github.com/tj1406)
-[![GitHub Streak](https://streak-readme.vercel.app/?user=tj1406&theme=radical)](https://git.io/streak-readme)
 
 🎓 **Undergraduate Economics Student** (10th Semester) | 💼 **Apparel Merchandising Intern** at Spark Clothing Ltd. | 🧠 **Certified Care Specialist** (NSDA & UDCEP)  
 
