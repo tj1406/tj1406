@@ -23,7 +23,7 @@ A versatile and driven Economics undergraduate bridging the gap between **analyt
 ##  Certifications & Credentials
 
 *  **Level 3 Certified in Child Care, Old Care & Dementia Support**  
-  * *Issued by:* National Skills Development Authority (NSDA) & UDCEP.
+  * *Issued by:* National Skills Development Authority (NSDA).
   * *Expertise:* Professional caregiving frameworks, dementia management, pediatric safety, and geriatric well-being protocols.
 
 ---
